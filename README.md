@@ -2,7 +2,7 @@
 
 ### Overview
 
-This project focuses on predicting the successful landing of the Falcon 9 first stage during SpaceX rocket launches. Given the significant cost savings associated with reusing the first stage, determining the likelihood of a successful landing is crucial for estimating the overall launch cost.  
+This project focuses on predicting the successful landing of the Falcon 9 first stage during SpaceX rocket launches. Given the significant cost savings associated with reusing the first stage, determining the likelihood of a successful landing is crucial for estimating the overall launch cost.<br>
 You can get a comprehensive overview and delve deeper into the concepts, methodologies, and code implementations by referring to the associated PowerPoint presentation.  
 Additionally, detailed explanations and code snippets are available in the Jupyter Notebook files provided.
 
