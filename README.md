@@ -3,13 +3,13 @@
 ### Overview
 
 This project focuses on predicting the successful landing of the Falcon 9 first stage during SpaceX rocket launches. Given the significant cost savings associated with reusing the first stage, determining the likelihood of a successful landing is crucial for estimating the overall launch cost.<br>
-You can get a comprehensive overview and delve deeper into the concepts, methodologies, and code implementations by referring to the associated PowerPoint presentation.  
-Additionally, detailed explanations and code snippets are available in the Jupyter Notebook files provided.
+You can get a comprehensive overview and delve deeper into the concepts, methodologies, and code implementations by referring to the associated PowerPoint presentation.<br>
+Additionally, detailed explanations and code snippets are available in the Jupyter Notebook files provided.<br>
 
 ### Project Scope
 
-The main goal is to create an accurate prediction model based on processed data.
-To achieve this, the project includes access to the SpaceX API as well as web scraping from Wikipedia to extract relevant data and information. Furthermore, during data cleaning and exploratory analysis (EDA), we will focus on improving the quality and relevance of the information present in the data, through feature engineering. This approach not only aims to remove any anomalies and ensure data consistency, but also to model the variables more effectively, thus optimizing the performance of the future predictive model.
+The main goal is to create an accurate prediction model based on processed data.<br>
+To achieve this, the project includes access to the SpaceX API as well as web scraping from Wikipedia to extract relevant data and information. Furthermore, during data cleaning and exploratory analysis (EDA), we will focus on improving the quality and relevance of the information present in the data, through feature engineering. This approach not only aims to remove any anomalies and ensure data consistency, but also to model the variables more effectively, thus optimizing the performance of the future predictive model.<br>
 The project will end with the development and evaluation of a predictive model, with the aim of maximizing the accuracy of predictions.
 
 ## Contents
